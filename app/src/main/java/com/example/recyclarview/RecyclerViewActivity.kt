@@ -51,6 +51,8 @@ class RecyclerViewActivity : AppCompatActivity() {
         getUserData()
 
         println("this j g")
+
+        i am good here
     }
 
     private fun getUserData() {
