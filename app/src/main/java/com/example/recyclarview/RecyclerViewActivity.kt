@@ -50,7 +50,7 @@ class RecyclerViewActivity : AppCompatActivity() {
         list = arrayListOf<NewsDataClass>()
         getUserData()
 
-        println("this j ")
+        println("this j g")
     }
 
     private fun getUserData() {
